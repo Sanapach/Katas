@@ -10,3 +10,6 @@ def cook_pancakes(n, m):
 
 
 cook_pancakes(1,4)
+
+
+
