@@ -1,1 +1,1 @@
-# Katas from CodeWars
+# Katas from CW
